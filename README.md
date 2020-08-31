@@ -19,6 +19,6 @@
 
 <p align="center">
 <a href="https://twitter.com/@willianfarina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@willianfarina" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/willian-aguiar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willian-aguiar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/willian-aguiar-89b1a0176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willian-aguiar" height="30" width="30" /></a>
 <a href="https://instagram.com/@willianfarina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@willianfarina" height="30" width="30" /></a>
 </p>
