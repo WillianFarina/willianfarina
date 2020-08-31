@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willianfarina" alt="willianfarina" /> </p>
 
+- 🔭 I’m currently working **for myself**
+
+- 👯 I’m looking to collaborate on **companies where people are more important than technology.**
+
 - 🌱 I'm always learning. **Currently focused on all React and React Native ecosystems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/willianfarina](https://github.com/willianfarina)
